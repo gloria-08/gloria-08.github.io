@@ -1,13 +1,13 @@
 ---
 # Display name
-title: GE WENYUE
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: GE WENYUE
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: WENYUE
-last_name: GE
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Software Engineer
+role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ST
+  - name: GenCoin
     url: https://www.example.com/
 
 # Social network links
@@ -33,7 +33,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gloria-08
+    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
