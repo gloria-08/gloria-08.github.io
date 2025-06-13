@@ -42,8 +42,8 @@ profiles:
 education:
   - area: MSc Artificial Intelligence
     institution: Nanyang Technological University
-    date_start: 2021-08
-    date_end: 2023-01
+    date_start: 2021-08-01
+    date_end: 2023-01-30
     summary: |
       GPA: 4.44 / 5.00
       
@@ -57,8 +57,8 @@ education:
     #   url: 'https://example.com'
   - area: BEng MEchanical Engineering with Honours (Distinction) with a Specialization in Robotics and Mechatronics Stream
     institution: Nanyang Technological University
-    date_start: 2017-08
-    date_end: 2021-05
+    date_start: 2017-08-01
+    date_end: 2021-05-01
     summary: |
       GPA: 4.46 / 5.00
       Member of Student Union
@@ -68,7 +68,7 @@ work:
     company_name: ST Engineering
     company_url: 'https://www.stengg.com/'
     company_logo: 'https://stengg.imgix.net/images/logo.jpg'
-    date_start: 2023-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
@@ -77,7 +77,7 @@ work:
     company_name: Intelligent Cloud Image Platform
     company_url: ''
     company_logo: ''
-    date_start: 2025-02
+    date_start: 2025-02-01
     date_end: ''
     summary: |
       Designed and developed a cloud-based image platform featuring Public Gallery and Private Space modules. Core capabilities include image upload, storage, download, sharing, content moderation, and advanced search with dominant colors and reverse-image queries.
