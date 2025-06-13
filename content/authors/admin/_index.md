@@ -1,9 +1,9 @@
 ---
 # Display name
-title: GE WENYUE
+title: Ge Wenyue
 
 # Name pronunciation (optional)
-name_pronunciation: Gloria Ge
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Gloria
@@ -61,6 +61,7 @@ education:
     date_end: 2021-05-01
     summary: |
       GPA: 4.46 / 5.00
+      
       Member of Student Union
   
 work:
@@ -158,4 +159,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently working as Software Development Engineer at ST Engineering in Singapore.
