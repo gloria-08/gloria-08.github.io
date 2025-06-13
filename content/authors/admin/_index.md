@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/gloria-08
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gewenyue
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
 
@@ -55,12 +55,14 @@ education:
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: BEng MEchanical Engineering with Honours (Distinction) with a Specialization in Robotics and Mechatronics Stream
+  - area: BEng MEchanical Engineering with Honours (Distinction) in Robotics and Mechatronics Stream
     institution: Nanyang Technological University
     date_start: 2017-08-01
     date_end: 2021-05-01
     summary: |
       GPA: 4.46 / 5.00
+
+      Honours (Distinction)
       
       Member of Student Union
   
@@ -71,9 +73,17 @@ work:
     company_logo: 'https://stengg.imgix.net/images/logo.jpg'
     date_start: 2023-01-01
     date_end: ''
-    summary: |2-
+    summary: |
+      Designed and developed configurable desktop software for platform screen door system management through intuitive UI, responsive data interaction, and adaptive configuration workflows, supporting full lifecycle operations from deployment to maintenance.
+
       Responsibilities include:
       - blahblah
+
+      Tech Stack include:
+      - C#, C, WPF, MVVM, MySQL, PostgreSQL
+      - MSTest, NUnit, Git
+      - Redis, Caffeine, RabbitMQ, Object Storage, Object-Oriented Programming
+      - Visual Studio, Linux Bash, Navicat
   - position: Full-stack Development
     company_name: Intelligent Cloud Image Platform
     company_url: ''
@@ -81,11 +91,18 @@ work:
     date_start: 2025-02-01
     date_end: ''
     summary: |
-      Designed and developed a cloud-based image platform featuring Public Gallery and Private Space modules. Core capabilities include image upload, storage, download, sharing, content moderation, and advanced search with dominant colors and reverse-image queries.
+      Designed and developed a cloud-based image platform featuring Public Gallery and Private Space modules.
+      
+      Core capabilities include image upload, storage, download, sharing, content moderation, and advanced search with dominant colors and reverse-image queries.
+      
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - blahblah
+
+      Tech Stack include:
+      - Java, Vue 3, Spring Boot, SSM (Spring, Spring MVC, MyBatis), MySQL, PostgreSQL
+      - Docker, Kubernetes, Nginx, Git
+      - Redis, Caffeine, RabbitMQ, Object Storage, Object-Oriented Programming
+      - Intellij IDEA, Linux Bash, Navicat
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
